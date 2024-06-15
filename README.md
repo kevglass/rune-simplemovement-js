@@ -1,1 +1,2 @@
-# rune-simplemovement-js
+Simple movement test in pure JS
+
